@@ -1,2 +1,2 @@
 # pyechoserver
-Python Echo Server Implementation
+Simple Python Echo Server Implementation for Kubernetes and Docker testing
